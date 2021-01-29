@@ -135,3 +135,8 @@ dmypy.json
 *.zip
 *.tif
 code/chapter05-图像复原与重建/example_02_01
+*.zip
+
+.svn/
+*.tif
+*.p
